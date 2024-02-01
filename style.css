@@ -267,6 +267,8 @@ p{
 @media only all and (max-width: 600px) {
     .collumn{
         width: 100%;
+	border-left: none;
+      	border-bottom: 1px solid #2f2f2f;
     }
 	.collumn + .collumn {
 				border-left: none;
